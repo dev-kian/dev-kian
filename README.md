@@ -4,11 +4,10 @@
  I'm a passionate **.NET developer** with around 4 years of professional experience. I have a deep love for coding and thrive on the challenges and satisfaction that come with creating innovative solutions. <br/><br/>
 
 ## ⚡️ A Few Quick Facts
-<img width="490" height="270" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
+<img width="450" height="250" src="https://media.giphy.com/media/9B8wYztAoe1zO/source.gif" align=right>
 
 - 🔭 I’m currently developing new coin wallet project
 - 🌱 I’m currently learning <a href="https://soliditylang.org" target="_blank">Solidity</a> ☕
-
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 🌐 Website Development
