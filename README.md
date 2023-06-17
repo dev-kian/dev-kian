@@ -15,7 +15,6 @@
   - 🛠 IoT
   - 🤖 Robotics
 - 📙 Check out my [Resume](https://cv.dev-kian.ir)
-- 🎉 Fun-Fact: I ❤️ SpaceX🚀 and watch a lot Sci-Fi Movies🎬
 
   
 ### 📬 Find me at
